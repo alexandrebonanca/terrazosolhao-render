@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-labelledby="title desc">
+  <title id="title">Colbat</title>
+  <desc id="desc">Símbolo geométrico e nome Colbat</desc>
+  <g fill="none" stroke="#1d1c1a" stroke-width="9" stroke-linejoin="round">
+    <path d="M56 18 20 39v42l36 21 36-21V39L56 18Z"/>
+    <path d="m56 18 36 21-36 21-36-21M56 60v42"/>
+  </g>
+  <path d="M131 35h13v50h-13zm33 0h13v50h-13zm33 0h13v50h-13z" fill="#a57f4b"/>
+  <text x="228" y="78" fill="#1d1c1a" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="5">COLBAT</text>
+</svg>
+
